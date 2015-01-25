@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MAIN -->
+    <string name="app_name">Best Bus Stop in the World ヽ(･ω･)/ </string>
+    
+    <!-- Broadcast -->
+    <string name="broadcast_location_changed">org.verfallen.bestbusstopintheworld.LocationChanged</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    
+    <!-- MENU -->
+    <string name="action_settings">Settings</string>
+    <string name="action_ui_settings">UI Settings</string>
+    <string name="action_debug">Debug</string>
+    
+    <!-- UI Settings -->
+    <string name="zoom_buttons">Zoom Buttons</string>
+    <string name="compass">Compass</string>
+    <string name="mylocation_button">My Location Button</string>
+    <string name="mylocation_layer">My Location Layer</string>
+    <string name="scroll">Scroll Gestures</string>
+    <string name="zoom_gestures">Zoom Gestures</string>
+    <string name="tilt">Tilt Gestures</string>
+    <string name="rotate">Rotate Gestures</string>
+    <string name="map_not_ready">Map is not ready yet</string>
+
+</resources>

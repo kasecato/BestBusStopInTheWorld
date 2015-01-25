@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+
+    <!-- My Location settings -->
+    <string name="pref_header_my_location">My Location</string>
+
+    <!-- Use GPS satellites -->
+    <string name="key_checkbox_gps">key_checkbox_gps</string>
+    <string name="pref_title_gps">Use GPS satellites</string>
+    <string name="pref_description_gps">Locate to street-level (requires more battery plus view of sky)</string>
+
+    <!-- Use wireless networks -->
+    <string name="key_checkbox_wireless_networks">key_checkbox_wireless_networks</string>
+    <string name="pref_title_wireless_networks">Use wireless networks</string>
+    <string name="pref_description_wireless_networks">Location determined by Wi-Fi and/or mobile networks</string>
+
+</resources>
